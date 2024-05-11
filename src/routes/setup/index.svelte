@@ -25,7 +25,7 @@
 </script>
 
 <svelte:head>
-	<title>Setup · Type Kana</title>
+	<title>Setup · Shining Kana Master</title>
 </svelte:head>
 
 <div class="wrapper">

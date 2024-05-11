@@ -29,7 +29,7 @@
 </script>
 
 <svelte:head>
-	<title>Summary · Type Kana</title>
+	<title>Summary · Shining Kana Master</title>
 </svelte:head>
 
 <Tooltip />

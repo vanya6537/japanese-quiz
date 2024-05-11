@@ -11,20 +11,20 @@
 
 <section class="header content-padding">
 	<div class="content-width center">
-		<h1><Logo size="2em" />Type Kana</h1>
+		<h1><Logo size="2em" />Shining Kana Master</h1>
 		<ul>
 			<li>
 				<a
-					href="https://furudean.com"
+					href="https://japanese-quiz-xi.vercel.app/"
 					target="_blank"
 					rel="nofollow"
 					class="menu-link"
 					aria-label="Author"
 				>
-					by Merilynn
+					by @shining_kenty_flame
 				</a>
 			</li>
-			<li>
+			<!-- <li>
 				<a
 					href="https://github.com/furudean/type-kana"
 					target="_blank"
@@ -39,8 +39,8 @@
 						<HeroIcon size="1em" src={Star} solid={true} ariaLabel="stars" />
 					</span>
 				</a>
-			</li>
-			<li>
+			</li> -->
+			<!-- <li>
 				<a
 					href="https://github.com/furudean/type-kana/commit/{commitHashLong}"
 					target="_blank"
@@ -50,7 +50,7 @@
 				>
 					commit #{commitHashShort}
 				</a>
-			</li>
+			</li> -->
 		</ul>
 	</div>
 </section>

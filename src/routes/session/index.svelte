@@ -128,7 +128,7 @@
 </script>
 
 <svelte:head>
-	<title>Session · Type Kana</title>
+	<title>Session · Shining Kana Master</title>
 </svelte:head>
 
 <svelte:window on:keydown={handleKeydown} />

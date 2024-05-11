@@ -1,10 +1,10 @@
-# [Type Kana](https://type-kana.furudean.com/)
+# [Shining Kana Master](https://japanese-quiz-xi.vercel.app//)
 
 <img src="assets/logo.svg" 
   width="128" 
   height="128" 
   align="right" 
-  alt="Type Kana logo" />
+  alt="Shining Kana Master logo" />
 
 A quiz app to help you learn
 <ruby>
@@ -15,7 +15,7 @@ and
 カタカナ<rp>(</rp><rt>katakana</rt><rp>)</rp>
 </ruby>, the Japanese syllabaries.
 
-If you are just looking to play, a hosted version of whatever is currently on the `main` branch should be available [here](https://type-kana.furudean.com/). No promises of uptime though!
+If you are just looking to play, a hosted version of whatever is currently on the `main` branch should be available [here](https://japanese-quiz-xi.vercel.app//). No promises of uptime though!
 
 ## Quick start
 
@@ -39,5 +39,5 @@ The current adapter used is [`@sveltejs/adapter-vercel`](https://github.com/svel
 - [Kenney.nl](https://www.kenney.nl/), for free audio that I used
 - My dear friend Nancy, for additional sound design
 - [M+ Fonts Project](https://mplus-fonts.osdn.jp/), for the M<sup>+</sup> Type-2 font used in this app
-- [Type Kana](https://lab.fleon.org/type-kana/) and [Real Kana](https://realkana.com/), for inspiration.
+- [Shining Kana Master](https://lab.fleon.org/type-kana/) and [Real Kana](https://realkana.com/), for inspiration.
 - [Material Design Icons](https://github.com/Templarian/MaterialDesign)

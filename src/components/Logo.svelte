@@ -3,7 +3,7 @@
 </script>
 
 <svg
-	aria-label="Type Kana logotype"
+	aria-label="Shining Kana Master logotype"
 	version="1.1"
 	width={size}
 	height={size}

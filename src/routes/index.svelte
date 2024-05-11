@@ -22,14 +22,14 @@
 </script>
 
 <svelte:head>
-	<title>Type Kana</title>
+	<title>Shining Kana Master</title>
 </svelte:head>
 
 <Header {stargazers} />
 <section class="content-padding">
 	<div class="content-width center">
 		<p>
-			Type Kana is a quiz app to help you learn hiragana and katakana, the
+			Shining Kana Master is a quiz app to help you learn hiragana and katakana, the
 			Japanese syllabaries.
 		</p>
 

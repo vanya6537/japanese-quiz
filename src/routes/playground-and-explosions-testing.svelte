@@ -3,12 +3,12 @@
 </script>
 
 <svelte:head>
-	<title>Type Kana</title>
+	<title>Shining Kana Master</title>
 </svelte:head>
 
 <div class="content-padding">
 	<div class="logos">
-		<img src="/icon.png" alt="Type Kana logo" />
+		<img src="/icon.png" alt="Shining Kana Master logo" />
 		<Logo size="16em" />
 		<Logo size="8em" />
 		<Logo size="4em" />
